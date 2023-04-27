@@ -17,7 +17,7 @@
 		"Can you send PDFs",
 		"Asked for tracking on a set that was already delivered",
 		"Went through old Boosey portal, not zinfonia",
-		"Can we get the set the set form our last rental in 1937",
+		"Can we get the set form our last rental in 1937",
 		"Can I arrange 'Somewhere' for 12 hurdy gurdies",
 		"How dare you send a marked set",
 		"How dare you send an unmarked set",
