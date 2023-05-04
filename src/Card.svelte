@@ -7,7 +7,7 @@
 	onMount(async () => {
 		let working = ref;
 		fullList = [];
-		while(working.length>0) {
+		while(fullList.length<24) {
 			const num = Math.round(Math.random()*(working.length-1));
 			fullList.push(working[num]);
 			working.splice(num, 1);
