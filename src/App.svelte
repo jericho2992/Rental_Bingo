@@ -25,8 +25,8 @@
 		"I can't pay with stripe",
 		"Our performance is this weekend",
 		"Why are there grand rights for a concert",
-		"Is this spam",
-		"It is my cultural obligation to perform this work."
+		"It is my cultural obligation to perform this work.",
+		"Returning the unsigned contract",
 	];
 </script>
 
