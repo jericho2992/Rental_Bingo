@@ -28,6 +28,7 @@
 		"Why are there grand rights for a concert",
 		"It is my cultural obligation to perform this work.",
 		"Returning the unsigned contract",
+		"Signed agreement is attached!...(it's not)"
 	];
 </script>
 
